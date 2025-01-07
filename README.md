@@ -2,7 +2,7 @@
 
 ## Description
 
-The Vulkanizer Template is a modern, visually appealing website template designed specifically for local vulcanizers. Built with Next.js, Tailwind CSS, and React Motion, this template offers seamless performance, responsive design, and engaging animations to elevate the online presence of vulcanizers. It serves as a baseline for quickly creating customized websites tailored to the needs of individual clients.
+The Vulkanizer Template is a modern, visually appealing website template designed specifically for local vulcanizers. Built with Next.js, Tailwind CSS, and Framer Motion, this template offers seamless performance, responsive design, and engaging animations to elevate the online presence of vulcanizers. It serves as a baseline for quickly creating customized websites tailored to the needs of individual clients.
 
 Live Demo: [https://vulkanizer.vercel.app/](https://vulkanizer.vercel.app/)
 
@@ -52,4 +52,4 @@ Live Demo: [https://vulkanizer.vercel.app/](https://vulkanizer.vercel.app/)
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [React Motion](https://github.com/chenglou/react-motion)
+- [Framer Motion](https://www.npmjs.com/package/framer-motion)
